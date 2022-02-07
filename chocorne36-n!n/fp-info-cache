@@ -1,4 +1,4 @@
-1658250204966158
+1663182925923020
 Kailh
 Kailh_PG1232
 
@@ -5943,6 +5943,20 @@ ProMicro_v2
 48
 24
 kbd
+ProMicro_v2_1
+
+
+0
+48
+24
+kbd
+ProMicro_v2_1min
+
+
+0
+48
+24
+kbd
 ProMicro_v2_1side
 
 
@@ -7055,6 +7069,13 @@ xiao-ble-tht2
 0
 34
 23
+xaio
+xiao-ble-tht3
+
+
+0
+34
+24
 xaio
 xiao-smd
 
